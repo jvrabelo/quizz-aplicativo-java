@@ -13,24 +13,24 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Qual a seleção que ganhou mais copas ?",
-    answer: "Brasil",
+    question: "Quantos Mundiais te o Corinthans ?",
+    answer: "2",
     options: [
-      "Alemanha",
-      "Brasil",
-      "Italia",
-      "Chile"
+      "3",
+      "2",
+      "1",
+      "0"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do rei do futebol Pelé?",
-    answer: "Edson Arantes do Nascimento",
+    question: "Quem foi o melhor zagueiro do Brasil de todos os tempos??",
+    answer: "Aldair Santos do Nascimento",
     options: [
-      "Francisco Silva",
+      "NINO",
       "Edson Arantes do Nascimento",
-      "Milton Nascimento",
-      "Galvão Bueno"
+      "Aldair Santos do Nascimento",
+      "Gustavo Gómez"
     ]
   },
   {
@@ -46,13 +46,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Qual o maior ídolo da história do Corinthians?",
-    answer: "Cassio Ramos",
+    question: "Quantos jogos o Róger Guedes tem pelo Corinthians??",
+    answer: "20",
     options: [
-      "Neto",
-      "Danilo",
-      "Cassio Ramos",
-      "Roger Guedes"
+      "20",
+      "25",
+      "33",
+      "13"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
