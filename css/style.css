@@ -335,7 +335,7 @@ footer button.show{
 .result_box .complete_text{
     font-size: 20px;
     font-weight: 500;
-}
+}DCDCDC
 
 .result_box .score_text span{
     display: flex;
@@ -378,8 +378,8 @@ footer button.show{
 }
 
 .buttons button.quit{
-    color: #007bff;
-    background: #fff;
+    color: #DCDCDC;
+    background: #DCDCDC;
 }
 
 .buttons button.quit:hover{
