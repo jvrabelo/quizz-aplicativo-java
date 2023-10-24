@@ -46,7 +46,7 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Quantos gols o Róger Guedes tem pelo Corinthians??",
+    question: "quantos gols tem roger guedes pelo corinthians?",
     answer: "43",
     options: [
       "43",
