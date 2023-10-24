@@ -2,7 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: "qual foi o clube que ganhou o munial em 2012 ?",
+    question: "qual foi o clube que ganhou o mundial em 2012 ?",
     answer: "Corinthians",
     options: [
       "Corinthians",
@@ -13,7 +13,7 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Quantos Mundiais te o Corinthans ?",
+    question: "Quantos Mundiais tem o Corinthans ?",
     answer: "2",
     options: [
       "3",
@@ -46,10 +46,10 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Quantos jogos o Róger Guedes tem pelo Corinthians??",
-    answer: "20",
+    question: "Quantos gols o Róger Guedes tem pelo Corinthians??",
+    answer: "43",
     options: [
-      "20",
+      "43",
       "25",
       "33",
       "13"
